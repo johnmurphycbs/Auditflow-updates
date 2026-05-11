@@ -1,9 +1,9 @@
 {
   "version": "1.0.1",
-  "pub_date": "2026-05-11T19:42:36Z",
+  "pub_date": "2026-05-11T19:59:52Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURWU3eE9pTEJaRWt6amkzRWtuU3dzQk1BNFF2QlMwOFBoVnp6OHJyOUJGMUtHZlZ1U0MwM0x4djYzL3FuRml1d0llcExPNk9TSkd5akFCa3czbzdiT1R5QjM0cXI0aXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NTI4NTU0CWZpbGU6QXVkaXRGbG93XzEuMC4xX3g2NC1zZXR1cC5leGUKamVWdzIzQlQxQXIwT1VWeGhveGZKRUFhZFFvSzkzNTFtcjlubkF6QldzTU9pbXZCNExSOE5XM0Ezb1FObldhS3ZNS05kaDF2NDJqVzIrMnhHbVNZQ2c9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURWU3eE9pTEJaRWk4Q3dFZHBMSitNeDFJTkpWVEZmeFQyZ0pGNDJaTlUvd0kzNWZPWVNrVUhLU21kcDFpK0JoNFFWTkVvU0NkdG1XUG5tTUIzTFZwQmQyamJOWU5vVmd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NTI5NTkxCWZpbGU6QXVkaXRGbG93XzEuMC4xX3g2NC1zZXR1cC5leGUKWjUzdGViUVQ4U1R1TkkzRjA0a3lBODZkYWwxM2orQ0lsajVBVEF0UVBMN05PdW5hVGVRTDJHTDBLeVJCcm53T0FncjhrRU5WTGdJUkVmVlVJOEErQVE9PQo=",
       "url": "https://github.com/johnmurphycbs/Auditflow-updates/releases/latest/download/AuditFlow_1.0.1_x64-setup.exe"
     }
   }
